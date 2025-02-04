@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: rgb(23, 23, 23); */
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+}
+
+.container{
+    /* padding: 0%; */
+    height: 100vh;
+    width: 100%;
+}
+header{
+    width: 100%;
+}
+.section-1{
+    margin-top: 10%;
+}
+.name{
+    font-size:100px;
+    font-family: Pacifico;
+}
+.para{
+    font-size:50px;
+    font-family: Pacifico;
+    padding-left: .5%;
+}
+.mydesc{
+    height: 100vh;
+    padding:15%; 
+    text-align: left;
+}
+.row{
+    height: 100vh;
+}
+.img-cont{
+
+    padding-top: 2%;
+}
+img{
+    border: 2px solid black;
+    border-radius: 5%;
+}
+.navbar{
+    position: sticky;
+}
