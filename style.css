@@ -10,10 +10,16 @@ html,body{
     padding: 0%;
     margin: 0%;
 }
-
+p{
+    font-size: larger;
+    text-align: justify;
+}
+li{
+    font-size: larger; 
+}
 .container{
     /* padding: 0%; */
-    height: 100vh;
+    height: 100%;
     width: 100%;
 }
 header{
@@ -23,6 +29,7 @@ header{
     margin-top: 10%;
 }
 .name{
+    padding-top: 10%;
     font-size:100px;
     font-family: Pacifico;
 }
@@ -31,22 +38,21 @@ header{
     font-family: Pacifico;
     padding-left: .5%;
 }
-.mydesc{
+/* .mydesc{
     height: 100vh;
     padding:15%; 
     text-align: left;
-}
+} */
 .row{
     height: 100vh;
 }
-.img-cont{
 
-    padding-top: 2%;
-}
-img{
-    border: 2px solid black;
-    border-radius: 5%;
-}
 .navbar{
     position: sticky;
 }
+.Strength{
+    margin-top: 20%;
+}
+/* .section-1{
+    margin-top: 10%;
+} */
