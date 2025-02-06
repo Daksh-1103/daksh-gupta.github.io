@@ -36,14 +36,6 @@ header{
     font-family: Pacifico;
     padding-left: .5%;
 }
-/* .mydesc{
-    height: 100vh;
-    padding:15%; 
-    text-align: left;
-} */
-/* .row{
-    height: 100vh;
-} */
 
 .navbar{
     position: sticky;
@@ -51,23 +43,12 @@ header{
 .Strength{
     margin-top: 20%;
 }
-/* .section-1{
-    margin-top: 10%;
-} */
-.intro-section{
-    margin-top: 1px;
-    display: flex;
-}
-.sec-2{
-    margin-top: 50px;
-    display: inline;
-}
 .h-1{
     margin-top: 25px;
 }
 
 .image{
-    display:inline;
+    /* display:inline; */
     max-width: 100%;
     height: auto;
     object-fit: cover;
